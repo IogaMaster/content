@@ -11,11 +11,9 @@
             "id": "12486b83322f0faf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Content Board.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Content Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Content Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Content Board.md"
               }
             }
           }
@@ -148,8 +146,8 @@
   },
   "active": "12486b83322f0faf",
   "lastOpenFiles": [
-    "Content Board.md",
     "README.md",
+    "Content Board.md",
     "LICENSE",
     "Scripts/Shorts",
     "Scripts/Videos",
