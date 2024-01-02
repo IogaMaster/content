@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Snowfall: Flakes made EASY
 - [ ] Neovim
 - [ ] Nixpkgs
 - [ ] Provisioning and deploying NixOS servers made DEAD SIMPLE
@@ -15,6 +14,7 @@ kanban-plugin: basic
 
 ## Writing
 
+- [ ] [[Snowfall flakes made EASY]]
 
 
 ## Editing
@@ -24,10 +24,13 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] NixOS video
-
-
-
 
 %% kanban:settings
 ```
