@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "5da9f86f67d271d9",
+        "id": "ba8cfb11c1f4cf6a",
         "type": "tabs",
         "children": [
           {
-            "id": "12486b83322f0faf",
+            "id": "e721a1edfeea269f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Content Board.md"
+                "file": "Scripts/Videos/Nixos servers/Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "121f6fa5645969b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a00936c93a0adbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/Videos/Nixos servers/Considerations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Board.md",
+                "file": "Scripts/Videos/Nixos servers/Considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Board.md",
+                "file": "Scripts/Videos/Nixos servers/Considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Board.md"
+                "file": "Scripts/Videos/Nixos servers/Considerations.md"
               }
             }
           }
@@ -144,11 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12486b83322f0faf",
+  "active": "a00936c93a0adbbe",
   "lastOpenFiles": [
-    "Scripts/Videos/Snowfall/Snowfall flakes made EASY.md",
+    "Scripts/Videos/Hydra/Consideration.md",
+    "Scripts/Videos/Nixos servers/Considerations.md",
+    "Scripts/Videos/Hydra",
+    "Scripts/Videos/Untitled.md",
+    "Stream Board.md",
+    "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
+    "Scripts/Videos/Nixos servers/Outline.md",
     "Content Board.md",
+    "Scripts/Videos/Nixos servers",
+    "Scripts/Videos/Snowfall/Snowfall flakes made EASY.md",
     "Scripts/Videos/Snowfall/Outline.md",
+    "Untitled.md",
     "Scripts/Videos/Snowfall/Untitled.md",
     "Scripts/Videos/Snowfall",
     "README.md",

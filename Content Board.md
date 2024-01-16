@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Neovim
 - [ ] Nixpkgs
-- [ ] Provisioning and deploying NixOS servers made DEAD SIMPLE
 - [ ] Hydra: CI the Nix way
+- [ ] Neovim
+- [ ] yazi
 
 
 ## Writing
 
-- [ ] [[Snowfall flakes made EASY]]
+- [ ] DEAD SIMPLE NixOS Servers
 
 
 ## Editing
@@ -24,6 +24,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] [[Snowfall flakes made EASY]]
 
 
 ***
