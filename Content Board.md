@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Impermanence
 - [ ] Nixpkgs
-- [ ] Hydra: CI the Nix way
-- [ ] Neovim
-- [ ] yazi
+- [ ] Arion: Docker deployments the Nix Way
 
 
 ## Writing
 
 - [ ] DEAD SIMPLE NixOS Servers
+- [ ] Hydra: CI the Nix way
 
 
 ## Editing

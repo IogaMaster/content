@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "121f6fa5645969b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a00936c93a0adbbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripts/Videos/Nixos servers/Considerations.md",
+                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/Considerations.md",
+                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/Considerations.md",
+                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/Considerations.md"
+                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md"
               }
             }
           }
@@ -164,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00936c93a0adbbe",
+  "active": "e721a1edfeea269f",
   "lastOpenFiles": [
-    "Scripts/Videos/Hydra/Consideration.md",
+    "Content Board.md",
+    "Scripts/Videos/Nixos servers/Outline.md",
+    "Stream Board.md",
     "Scripts/Videos/Nixos servers/Considerations.md",
+    "Scripts/Videos/Hydra/Consideration.md",
     "Scripts/Videos/Hydra",
     "Scripts/Videos/Untitled.md",
-    "Stream Board.md",
     "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
-    "Scripts/Videos/Nixos servers/Outline.md",
-    "Content Board.md",
     "Scripts/Videos/Nixos servers",
     "Scripts/Videos/Snowfall/Snowfall flakes made EASY.md",
     "Scripts/Videos/Snowfall/Outline.md",
