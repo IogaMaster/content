@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Impermanence
-- [ ] Nixpkgs
 - [ ] Arion: Docker deployments the Nix Way
+- [ ] Hydra: CI the Nix way
+- [ ] [[naersk+fenix  rust made simple]]
+- [ ] neovim+nix: the simple way
 
 
 ## Writing
 
-- [ ] DEAD SIMPLE NixOS Servers
-- [ ] Hydra: CI the Nix way
+- [ ] Nixpkgs
 
 
 ## Editing
@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] [[Snowfall flakes made EASY]]
+- [x] DEAD SIMPLE NixOS Servers
 
 
 ***

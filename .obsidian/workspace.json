@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8cfb11c1f4cf6a",
+        "id": "2ffc98d028d74762",
         "type": "tabs",
         "children": [
           {
-            "id": "e721a1edfeea269f",
+            "id": "dfa7073e76876a0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
-                "mode": "source",
-                "source": false
+                "file": "Content Board.md"
+              }
+            }
+          },
+          {
+            "id": "30b1fce0cd6d1d4d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Content Board.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
+                "file": "Content Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
+                "file": "Content Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md"
+                "file": "Content Board.md"
               }
             }
           }
@@ -146,20 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e721a1edfeea269f",
+  "active": "30b1fce0cd6d1d4d",
   "lastOpenFiles": [
+    "Notes/naersk+fenix  rust made simple.md",
     "Content Board.md",
-    "Scripts/Videos/Nixos servers/Outline.md",
     "Stream Board.md",
-    "Scripts/Videos/Nixos servers/Considerations.md",
-    "Scripts/Videos/Hydra/Consideration.md",
-    "Scripts/Videos/Hydra",
-    "Scripts/Videos/Untitled.md",
-    "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
-    "Scripts/Videos/Nixos servers",
-    "Scripts/Videos/Snowfall/Snowfall flakes made EASY.md",
-    "Scripts/Videos/Snowfall/Outline.md",
+    "Notes",
     "Untitled.md",
+    "Scripts/Videos/nixpkgs/A SIMPLE guide to Nixpkgs.md",
+    "Scripts/Videos/Nixos servers/DEAD SIMPLE NixOS Servers.md",
+    "Scripts/Videos/Nixos servers/Considerations.md",
+    "Scripts/Videos/nixpkgs/outline.md",
+    "Scripts/Videos/nixpkgs",
+    "Scripts/Videos/Untitled.md",
+    "Scripts/Videos/Nixpkgs.md",
+    "Scripts/Videos/Snowfall/Snowfall flakes made EASY.md",
+    "Scripts/Videos/Hydra/Consideration.md",
+    "Scripts/Videos/Snowfall/Outline.md",
+    "Scripts/Videos/Nixos servers/Outline.md",
+    "Scripts/Videos/Hydra",
+    "Scripts/Videos/Nixos servers",
     "Scripts/Videos/Snowfall/Untitled.md",
     "Scripts/Videos/Snowfall",
     "README.md",
